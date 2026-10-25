@@ -3,7 +3,7 @@ window.KB_CONFIG = {
   // Paste the Apps Script web app URL here (ends in /exec).
   // Left empty, the page runs in DEMO MODE: data is kept in this browser only and emails are
   // shown on screen instead of being sent. Good for showing the board.
-  API_URL: '',
+  API_URL: 'https://script.google.com/macros/s/AKfycbxJqCAGO15MqchbSRkkON7-oYg9Sk5GZJdXr3af8UNnPOLx7-yvWJqiJvQZ4e41mqliZw/exec',
 
   CLUB_NAME: 'Kew Beach Lawn Bowling Club',
   CLUB_PHONE: '416-694-4371',
